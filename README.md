@@ -1,5 +1,13 @@
 # BIGTREE
 
+*Programming Language : PHP, Javascript
+
+*Database: MySQL
+
+*Webserver: PHPMyAdmin
+
+*Front-end tech: HTML5,CSS3,jQuery AJAX
+
 This is a Home Automation Network 
 
 Light and Temperature sensors are installed and controlled by this website.
