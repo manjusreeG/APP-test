@@ -1,12 +1,12 @@
 # BIGTREE
 
-*Programming Language : PHP, Javascript
+*Programming Language : PHP, Javascript*
 
-*Database: MySQL
+*Database: MySQL*
 
-*Webserver: PHPMyAdmin
+*Webserver: PHPMyAdmin*
 
-*Front-end tech: HTML5,CSS3,jQuery AJAX
+*Front-end tech: HTML5,CSS3,jQuery AJAX*
 
 This is a Home Automation Network 
 
